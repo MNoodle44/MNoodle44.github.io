@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mnoodle44.github.io</id>
     <title>麦面的小站</title>
-    <updated>2020-02-07T04:53:52.785Z</updated>
+    <updated>2020-02-07T04:54:52.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mnoodle44.github.io"/>
     <link rel="self" href="https://mnoodle44.github.io/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2020, 麦面的小站</rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://mnoodle44.github.io/post/hello-gridea</id>
-        <link href="https://mnoodle44.github.io/post/hello-gridea">
+        <id>https://mnoodle44.github.io/post/about</id>
+        <link href="https://mnoodle44.github.io/post/about">
         </link>
         <updated>2020-02-05T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
