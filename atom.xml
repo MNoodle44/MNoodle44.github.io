@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mnoodle44.github.io</id>
     <title>MNoodle trash</title>
-    <updated>2020-02-11T11:56:18.502Z</updated>
+    <updated>2020-02-11T12:07:42.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mnoodle44.github.io"/>
     <link rel="self" href="https://mnoodle44.github.io/atom.xml"/>
@@ -12,11 +12,11 @@
     <rights>All rights reserved 2020, MNoodle trash</rights>
     <entry>
         <title type="html"><![CDATA[我在使用的装备]]></title>
-        <id>https://mnoodle44.github.io/post/wo-zai-shi-yong-de-zhuang-bei</id>
-        <link href="https://mnoodle44.github.io/post/wo-zai-shi-yong-de-zhuang-bei">
+        <id>https://mnoodle44.github.io/divece&amp;software</id>
+        <link href="https://mnoodle44.github.io/divece&amp;software">
         </link>
         <updated>2020-02-11T11:54:35.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="在使用的硬件">在使用的硬件</h1>
+        <content type="html"><![CDATA[<h1 id="硬件">硬件</h1>
 <ul>
 <li><strong>💻小米Pro 2018</strong><br>
 一台跟宅男游戏本一样重的定位迷幻的机器==<br>
@@ -28,14 +28,14 @@
 <li><strong>⌨️🖱航世HW192</strong><br>
 薄，静音。码字舒服。套装的好处是，键鼠共用同一个接收器，只占用一个USB接口。</li>
 </ul>
-<h1 id="在使用的软件">在使用的软件</h1>
+<h1 id="软件">软件</h1>
 <ul>
 <li><strong>Adobe Photoshop</strong><br>
 目前的主力绘画软件。臃肿，但是用习惯了……</li>
 <li><strong>Adobe Animate</strong><br>
 专业课用来做动画的软件。噩梦，噩梦🤦‍</li>
 <li><a href="https://www.centbrowser.com/"><strong>百分浏览器</strong></a><br>
-基于chromium。极度人性化，按偏好修改设置项以后，能达到难以想象的便捷。但和chrome一样是电老虎。</li>
+基于chromium。极度人性化，按偏好修改设置项以后，能达到难以想象的便捷。但和chrome一样是电个老虎。</li>
 <li><a href="https://cn.eagle.cool/"><strong>Eagle</strong></a><br>
 图片素材管理软件，tag系统非常好用。购买了正版，目前长期闲置中……<br>
 要整理出自己独有的素材库真的超费时间，并不是一件容易的事。</li>
@@ -45,15 +45,15 @@
 todo类应用，功能全面。最大的特点是支持全平台！</li>
 <li><a href="https://writer.drakeet.com/"><strong>纯纯写作</strong></a><br>
 一直在使用的写作APP，用它码字真的非常舒服。支持markdown。<br>
-也有win和mac桌面版，目前功能比较简单，大概就是android版的投屏==不过作者说会重写桌面版，可以期待一下<sup>▽</sup><br>
+也有win和mac桌面版，目前功能比较简单，大概就是android版的投屏==不过作者说会重写桌面版，可以期待一下 <sup>▽</sup><br>
 最近从买断制变为订阅制，永久会员从最初的13元涨到128元，因此被用户戏称为“<strong>纯纯理财</strong>”😂。</li>
 </ul>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
-        <id>https://mnoodle44.github.io/post/about</id>
-        <link href="https://mnoodle44.github.io/post/about">
+        <id>https://mnoodle44.github.io/about</id>
+        <link href="https://mnoodle44.github.io/about">
         </link>
         <updated>2020-02-05T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<blockquote>
@@ -95,7 +95,9 @@ todo类应用，功能全面。最大的特点是支持全平台！</li>
 <blockquote>
 <p>曾是一只云雀，受到电子产品的辐射变异为猫头鹰，从此过上了昼夜颠倒的生活。</p>
 </blockquote>
-<h2 id="联系我吧">📞联系我吧</h2>
+<h2 id="我正在使用的装备"><a href="">我正在使用的装备</a></h2>
+<hr>
+<h1 id="联系我吧">📞联系我吧</h1>
 <p>主要通讯工具是QQ：1182872380<br>
 👇在这些地方也可以找到我</p>
 <ul>
