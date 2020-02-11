@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mnoodle44.github.io</id>
     <title>MNoodle trash</title>
-    <updated>2020-02-11T08:37:36.991Z</updated>
+    <updated>2020-02-11T11:39:21.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mnoodle44.github.io"/>
     <link rel="self" href="https://mnoodle44.github.io/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2020-02-05T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<blockquote>
-<p>👏  欢迎来到 <strong>麦面的小站</strong> ！  很高兴见到你＾▽＾</p>
+<p>👏  欢迎光临 <strong>麦面的小站</strong> ！  很高兴见到你＾▽＾</p>
 </blockquote>
 <hr>
 <h1 id="关于本站">关于本站</h1>
@@ -34,9 +34,7 @@
 社交恐惧。逃避现实的旧时代阿宅。走不出的叛逆期。<br>
 绘画学习中。有朝一日成为苦逼的描线工人。<br>
 猫头鹰族。在仰望云雀们的生活。</p>
-<h2 id="经历">经历</h2>
-<p>后因受到电子产品辐射，从云雀变异成为猫头鹰，从此昼夜颠倒地生活着。</p>
-<h2 id="目前的硬件">目前的硬件</h2>
+<h2 id="在使用的硬件">在使用的硬件</h2>
 <ul>
 <li><strong>💻小米Pro 2018</strong><br>
 一台跟宅男游戏本一样重的定位迷幻的机器==<br>
@@ -50,16 +48,23 @@
 </ul>
 <h2 id="目前的软件">目前的软件</h2>
 <ul>
-<li><strong>Photoshop 2019</strong><br>
+<li><strong>Adobe Photoshop</strong><br>
 目前的主力绘画软件。臃肿，但是用习惯了……</li>
+<li><strong>Adobe Animate</strong><br>
+专业课用来做动画的软件。噩梦，噩梦🤦‍</li>
+<li><a href="https://www.centbrowser.com/">百分浏览器</a><br>
+基于chromium。极度人性化，按偏好修改设置项以后，能达到难以想象的便捷。但和chrome一样是电老虎。</li>
 <li><a href="https://cn.eagle.cool/"><strong>Eagle</strong></a><br>
-图片素材管理软件，tag系统非常好用。但是要整理出自己独有的素材库超费时间的，不是一件容易的事啊……</li>
+图片素材管理软件，tag系统非常好用。购买了正版，目前长期闲置中……<br>
+要整理出自己独有的素材库真的超费时间，并不是一件容易的事。</li>
+<li><a href="https://gridea.dev/"><strong>Gridea</strong></a><br>
+静态博客写作客户端，也就是我目前部署和编辑这个博客所用的软件。</li>
+<li><a href="https://dida365.com/home/"><strong>滴答清单</strong></a><br>
+todo类应用，功能全面。最大的特点是支持全平台！</li>
 <li><a href="https://writer.drakeet.com/"><strong>纯纯写作</strong></a><br>
-支持了好几年的安卓端写作APP，用它码字真的非常舒服。支持markdown。<br>
+一直在使用的写作APP，用它码字真的非常舒服。支持markdown。<br>
 也有win和mac桌面版，目前功能比较简单，大概就是android版的投屏==不过作者说会重写桌面版，可以期待一下<sup>▽</sup><br>
 最近从买断制变为订阅制，永久会员从最初的13元涨到128元，因此被用户戏称为“<strong>纯纯理财</strong>”😂。</li>
-<li><a href="https://gridea.dev/"><strong>Gridea</strong></a><br>
-静态博客写作客户端，也就是我目前部署这个博客所用的软件。</li>
 </ul>
 <h1 id="联系我吧">📞联系我吧</h1>
 <p>主要通讯工具是QQ：1182872380<br>
