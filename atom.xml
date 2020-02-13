@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mnoodle44.github.io</id>
     <title>MNoodle trash</title>
-    <updated>2020-02-11T13:10:15.173Z</updated>
+    <updated>2020-02-13T15:14:13.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mnoodle44.github.io"/>
     <link rel="self" href="https://mnoodle44.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://mnoodle44.github.io/images/avatar.png</logo>
     <icon>https://mnoodle44.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MNoodle trash</rights>
+    <entry>
+        <title type="html"><![CDATA[地狱，我的人格缺陷]]></title>
+        <id>https://mnoodle44.github.io/zi-wo-zhi-liao-chu-fang-wo-de-ren-ge-que-xian</id>
+        <link href="https://mnoodle44.github.io/zi-wo-zhi-liao-chu-fang-wo-de-ren-ge-que-xian">
+        </link>
+        <updated>2020-02-13T11:24:41.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在使用的装备]]></title>
         <id>https://mnoodle44.github.io/divece&amp;software</id>
