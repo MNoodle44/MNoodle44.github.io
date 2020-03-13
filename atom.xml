@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mnoodle44.github.io</id>
     <title>MNoodle trash</title>
-    <updated>2020-03-13T10:57:31.951Z</updated>
+    <updated>2020-03-13T11:01:27.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mnoodle44.github.io"/>
     <link rel="self" href="https://mnoodle44.github.io/atom.xml"/>
@@ -16,6 +16,10 @@
         <link href="https://mnoodle44.github.io/UrCol1Q9r">
         </link>
         <updated>2020-02-17T15:59:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>一些无聊的故事。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一些无聊的故事。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[正在进行时 - 练习]]></title>
@@ -23,6 +27,10 @@
         <link href="https://mnoodle44.github.io/ing_practice">
         </link>
         <updated>2020-02-15T12:13:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>张贴我的练习，包括速写，抓型，速涂等。按月归档。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>张贴我的练习，包括速写，抓型，速涂等。按月归档。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[地狱，我的人格缺陷]]></title>
@@ -44,5 +52,13 @@
         <link href="https://mnoodle44.github.io/about">
         </link>
         <updated>2020-02-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>🌈  欢迎光临 <strong>麦面的小站</strong> ！  很高兴见到你＾▽＾</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>🌈  欢迎光临 <strong>麦面的小站</strong> ！  很高兴见到你＾▽＾</p>
+</blockquote>
+]]></content>
     </entry>
 </feed>
