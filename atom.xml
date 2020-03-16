@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mnoodle44.github.io</id>
     <title>MNoodle trash</title>
-    <updated>2020-03-16T07:25:09.599Z</updated>
+    <updated>2020-03-16T07:26:01.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mnoodle44.github.io"/>
     <link rel="self" href="https://mnoodle44.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://mnoodle44.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MNoodle trash</rights>
     <entry>
-        <title type="html"><![CDATA[为什么绘画难以学习？绘画的意义是什么？怎样开始绘画？]]></title>
+        <title type="html"><![CDATA[为什么绘画那么难？绘画的意义是什么？怎样开始绘画？]]></title>
         <id>https://mnoodle44.github.io/paint_difficulty</id>
         <link href="https://mnoodle44.github.io/paint_difficulty">
         </link>
